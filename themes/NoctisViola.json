@@ -856,7 +856,7 @@
             "meta.function.parameters variable.other"
          ],
          "settings": {
-            "fontStyle": "bold"
+            "fontStyle": ""
          }
       },
       {
@@ -888,7 +888,7 @@
             "meta.attribute.id entity.other.attribute-name"
          ],
          "settings": {
-            "fontStyle": "bold italic"
+            "fontStyle": " italic"
          }
       },
       {
